@@ -3,7 +3,7 @@ project(complejo
     VERSION 1.0
     DESCRIPTION "operaciones con números complejos"
     LANGUAGES CXX)
-add_executable(fecha
+add_executable(complejo
     src/complejo.cc
     src/complejo.h
     src/complejos.cc)
